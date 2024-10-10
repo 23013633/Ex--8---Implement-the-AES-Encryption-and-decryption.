@@ -27,7 +27,7 @@ for (int i = 0; i < input_len; i++) {
 }
 
 int main() {
-char url[] = "MOUNESH";
+char url[] = "JASWANTH";
 char key[] = "secretkey"; 
 
 printf("Original URL: %s\n", url);
