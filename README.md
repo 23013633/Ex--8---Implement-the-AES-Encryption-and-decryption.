@@ -27,7 +27,7 @@ for (int i = 0; i < input_len; i++) {
 }
 
 int main() {
-char url[] = "JASWANTH";
+char url[] = "https://www.jaswanth.com";
 char key[] = "secretkey"; 
 
 printf("Original URL: %s\n", url);
@@ -43,7 +43,7 @@ return 0;
 ```
 OUTPUT:
 
-![image](https://github.com/user-attachments/assets/54a6f1c4-9366-404e-92de-2dcdd34633d9)
+![image](https://github.com/user-attachments/assets/f4f80a6e-d2a6-43e1-bd35-d8fa4714ef21)
 
 RESULT:
 
